@@ -5,6 +5,7 @@ Here are some topics I am interested in:
 🐧 Linux
 🔭 Dart
 ☕ Java
+💻 IA
 
 I have always been fascinated by the digital and business realms, particularly the crucial intersection between these two areas. I consider myself to be entrepreneurial, determined, and ambitious, and I am eager to push myself beyond my comfort zone.
 At present, I am seeking new academic and professional opportunities that will enhance my personal and professional growth.
