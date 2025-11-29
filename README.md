@@ -2,7 +2,7 @@
 I graduated from ISCTE-IUL with a degree in Computer Science and Business Management. Currently,  I am pursuing a Master's degree in Business Analytics. I am also the President of the Association for Computing Machinery (ACM) - ISCTE-IUL ACM Student Chapter.
 
 Here are some topics I am interested in:
-🐧 Linux
+🐧 Python
 🔭 Dart
 ☕ Java
 💻 IA
